@@ -1,4 +1,10 @@
   <div align="center">
+    
+current github for: [@1969bootboy](https://github.com/1969bootboy)! <!-- (if youre seeing this while copy pasting the code get rid of it HJASHJA -->
+  </div>
+
+  
+  <div align="center">
 
 <img src="https://64.media.tumblr.com/301261b1acdfa02b51d41e9d97f9c8f3/e7de72d9a98ef96d-c3/s1280x1920/fc52174bab78000f74fc1bb2a9c84d7f400e4e1e.pnj" alt="username" width="300" title="1969bootboy">
 
