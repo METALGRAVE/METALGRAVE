@@ -18,11 +18,11 @@
    <hr>
 
 
-<img src="https://64.media.tumblr.com/f2a39e961e70d62da64e205ad670cf80/fd09c4fcdd4ff1cf-fa/s540x810/bf87b397412de990efef76f59d260702790eb0bb.pnj" width="120">![](https://lastfm-recently-played.vercel.app/api?user=cross40&width=300&count=1&bg_color=27424D&header_style=none)<img src="https://64.media.tumblr.com/307281a1201f5bf87a324388b3137040/fd09c4fcdd4ff1cf-a7/s540x810/684498e98ecbee30b60b124463340b5581529a3c.pnj" width="120">
+<img src="https://64.media.tumblr.com/f2a39e961e70d62da64e205ad670cf80/fd09c4fcdd4ff1cf-fa/s540x810/bf87b397412de990efef76f59d260702790eb0bb.pnj" alt="bullet" title="just the tip, i promise" width="120"><a href="https://www.last.fm/user/cross40">![](https://lastfm-recently-played.vercel.app/api?user=cross40&width=300&count=1&bg_color=27424D&header_style=none)</a><img src="https://64.media.tumblr.com/307281a1201f5bf87a324388b3137040/fd09c4fcdd4ff1cf-a7/s540x810/684498e98ecbee30b60b124463340b5581529a3c.pnj" alt="bullet" title="just the tip, i promise" width="120">
 
 
-
-
+<a href="https://1969bootboy.straw.page/"><img src="https://64.media.tumblr.com/77c6b6c1ee90790d80f02d3f101c9205/c06f2db09216d675-f0/s250x400/7cce88d5267b53adecd22d57780514e87eaed871.pnj" width="100" alt="strawpage" title="strawpage"></a>
+<a href="https://1969bootboy.atabook.org/"><img src="https://64.media.tumblr.com/a1bbfa18d2bed68c1961f193d6e141e3/c06f2db09216d675-e2/s250x400/5bab3dd5f6770fbffd91a6ceb851db6aa299b643.pnj" width="100" alt="atabook" title="atabook"></a>
 
    <details>
               <summary>👅</summary>
