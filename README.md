@@ -8,9 +8,18 @@ current github testing: <a href="https://github.com/Vexuliii">new main repositor
 <hr>
 
    <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=f40d30&style=for-the-badge&label=ALIENS+BURNED:" title="The time is now."></p>
+</div>
 
+<div align="left">
+  <table border="7">
+     <tr>
+       <td>
+<img src="https://64.media.tumblr.com/a1b84fff854977533b57579d11d937ed/416849fc44d48038-d7/s500x750/3f5fc8488670256885b034d64445a0b14d525ec9.gifv" title="hi this is a big wip">
+    </td>
+  </tr>
+</table>
 
-<img src="https://64.media.tumblr.com/a1b84fff854977533b57579d11d937ed/416849fc44d48038-d7/s500x750/3f5fc8488670256885b034d64445a0b14d525ec9.gifv" title="hi this is a big wip" align="left">
+</div>
 
 <div align="center">
 
