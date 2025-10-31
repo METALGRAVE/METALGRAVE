@@ -14,6 +14,7 @@ $\color{#D29922}\Large{\textsf{It was never personal.}}$
 
   </div>
 
+<hr>
 
    <img src="https://64.media.tumblr.com/d6ca9c1692e9e77e8709d7d97e8322b0/e557ac967605794e-f3/s400x600/042e970d5541d7e4e67a0b3514cac8f1d525a732.webp" align="left" width="400" alt="adler smoking" title="im gonna fucking kill him" style="border: solid red"> 
 
