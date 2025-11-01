@@ -33,7 +33,7 @@ $\color{#316966}\Large{\textsf{It was never personal.}}$
   <kbd><img src="https://media1.tenor.com/m/aJhMAl6hDPgAAAAd/black-ops-6-adler.gif" align="center" width="100" alt="adler talk" title="what a yapper">
 <br>
 
-$\color{#bb8b35}{\textsf{We had a job to do.}}$
+$\color{#bb8b35}\tiny{\textsf{We had a job to do.}}$
 </kbd>
 
 
