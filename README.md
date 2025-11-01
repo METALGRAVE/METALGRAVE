@@ -9,13 +9,13 @@ Current github for my [main](https://github.com/Vexuliii)!
          <br>
   <div align="left">
      
-  $\color{#D29922}\Large{\textsf{I hope you understand,}}$
+  $\color{#ab3f33}\Large{\textsf{I hope you understand,}}$
   </div>
 <img src="https://64.media.tumblr.com/7988800e21fc1267a871af3dfb042dd9/08c82feca3bf90bb-2c/s1280x1920/e02c203f89ed569b5d1eed3135e3a573fc52187c.pnj" width="1000" align="center">
 <br>
 <div align="right">
   
-$\color{#D29922}\Large{\textsf{It was never personal.}}$ 
+$\color{#ab3f33}\Large{\textsf{It was never personal.}}$ 
   <br>
    </div>
     </td>
@@ -33,14 +33,14 @@ $\color{#D29922}\Large{\textsf{It was never personal.}}$
   <kbd><img src="https://media1.tenor.com/m/aJhMAl6hDPgAAAAd/black-ops-6-adler.gif" align="center" width="100" alt="adler talk" title="what a yapper">
 <br>
 
-$\color{#D29922}{\textsf{We had a job to do.}}$
+$\color{#d12a18}{\textsf{We had a job to do.}}$
 </kbd>
 
 
-$\color{#D29922}\Large{\textsf{It was never personal.}}$
-$\color{#D29922}\Large{\textsf{It was never personal.}}$
-$\color{#D29922}\Large{\textsf{It was never personal.}}$
+$\color{#96552e}\Large{\textsf{It was never personal.}}$
+$\color{#96552e}\Large{\textsf{It was never personal.}}$
+$\color{#96552e}\Large{\textsf{It was never personal.}}$
 
 
-$\color{#D29922}\Large{\textsf{It was never personal.}}$
-   <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=6c9d76&style=for-the-badge&label=CIA+MEMBERS:" title="New recruitment: Bell."></p>
+$\color{#96552e}\Large{\textsf{It was never personal.}}$
+   <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=d12a18&style=for-the-badge&label=CIA+MEMBERS:" title="New recruitment: Bell."></p>
