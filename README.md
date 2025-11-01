@@ -11,7 +11,7 @@ Current github for my [main](https://github.com/Vexuliii)!
      
   $\color{#316966}\Large{\textsf{I hope you understand,}}$
   </div>
-<img src="https://64.media.tumblr.com/7988800e21fc1267a871af3dfb042dd9/08c82feca3bf90bb-2c/s1280x1920/e02c203f89ed569b5d1eed3135e3a573fc52187c.pnj" width="1000" align="center">
+<img src="https://64.media.tumblr.com/7988800e21fc1267a871af3dfb042dd9/08c82feca3bf90bb-2c/s1280x1920/e02c203f89ed569b5d1eed3135e3a573fc52187c.pnj" width="1000" align="center" alt="bunker door" title="DONT LOOK DONT LOOK IM NOT DONE YET">
 <br>
 <div align="right">
   
