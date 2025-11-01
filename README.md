@@ -37,10 +37,12 @@ $\color{#bb8b35}{\textsf{We had a job to do.}}$
 </kbd>
 
 
-$\color{#96552e}\Large{\textsf{Hello, I'm Grave!}}$
-$\color{#96552e}\Large{\textsf{I go by any/he-him pronouns, and am always open to int!}}$
-$\color{#96552e}\Large{\textsf{I'm usually AFK around docks, hermithill, or DC area! feel free to whisper for anything!}}$
+$\color{#96552e}{\textbf{Hello, I'm Grave!}}$
 
+$\color{#96552e}{\textbf{Any/All (+he/him) pronouns}}$
+
+$\color{#96552e}{\textbf{I'm usually AFK around docks, hermithill,}}$
+$\color{#96552e}{\textbf{or DC area! feel free to whisper for anything!}}$
 
 $\color{#96552e}\Large{\textsf{It was never personal.}}$
    <p align="center"><img src="https://komarev.com/ghpvc/?username=METALGRAVE&color=316966&style=for-the-badge&label=CIA+MEMBERS:" title="New recruitment: Bell."></p>
