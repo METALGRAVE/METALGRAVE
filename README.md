@@ -2,16 +2,24 @@
 
 Current github for my [main](https://github.com/Vexuliii)!
 
+
+ <table border="8">
+     <tr>
+       <td>
+         <br>
   <div align="left">
-    
+     
   $\color{#D29922}\Large{\textsf{I hope you understand,}}$
   </div>
-<img src="https://media1.tenor.com/m/n27Rqalpan8AAAAC/bocw-black-ops.gif" width="700" align="center">
+<img src="https://64.media.tumblr.com/7988800e21fc1267a871af3dfb042dd9/08c82feca3bf90bb-2c/s1280x1920/e02c203f89ed569b5d1eed3135e3a573fc52187c.pnj" width="1000" align="center">
 <br>
 <div align="right">
   
 $\color{#D29922}\Large{\textsf{It was never personal.}}$ 
-
+  <br>
+    </td>
+  </tr>
+</table>
   </div>
 
 <hr>
