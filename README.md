@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
  <img src="https://typingsvg.vercel.app/api/svg?width=700&height=72&backgroundColor=%23983434&cursorStyle=block&lines=%5B%7B%22text%22%3A%22It+was+more+like...%22%2C%22font%22%3A%22Handjet%22%2C%22color%22%3A%22%23e1dbbc%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.0196078431372549%7D%2C%7B%22text%22%3A%22Being+forced+to+watch+something+you+can%27t+stop.%22%2C%22font%22%3A%22Handjet%22%2C%22color%22%3A%22%23e1dbbc%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.0196078431372549%7D%5D" alt="Typing SVG" align="right" width="400" height="200" title="It was more like... Being forced to watch something you can't stop.">
     <br>
