@@ -11,6 +11,5 @@
       <br>
         <br>
           <br>
+          <img src="https://64.media.tumblr.com/d891af1fdec0f8971f0c7d2b743cb837/6186931fcdcf074a-eb/s540x810/860105b9a68b91fcb53a0b5ff2093840823582e4.gifv" width="305" align="right">
 <img src="https://typingsvg.vercel.app/api/svg?width=700&height=72&backgroundColor=%23e1dbbc&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Mercy+killing+is+a+last+resort.%22%2C%22font%22%3A%22Handjet%22%2C%22color%22%3A%22%23ab3b3b%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.0196078431372549%7D%2C%7B%22text%22%3A%22Glad+you+recognized+we+had+options.%22%2C%22font%22%3A%22Handjet%22%2C%22color%22%3A%22%23983434%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.0196078431372549%7D%5D" alt="Typing SVG" title="Mercy killing is a last resort. Glad you recognized we had options." width="370" height="200" align="left">
-
-<img src="https://64.media.tumblr.com/d891af1fdec0f8971f0c7d2b743cb837/6186931fcdcf074a-eb/s540x810/860105b9a68b91fcb53a0b5ff2093840823582e4.gifv" width="305" align="right">
