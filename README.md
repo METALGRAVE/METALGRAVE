@@ -19,10 +19,7 @@
       <br>
         <br>
           <br>
-<img src="https://64.media.tumblr.com/820ce1007d579864eb10ef208cacbdc7/838d63b68db0a450-c7/s2048x3072/fedd7beb1fd223475c829a703eb838cb532f2455.pnj" width="450" align="left">
-     <br>
-      <br>
-        <br>
-          <br>
+<img src="https://64.media.tumblr.com/f5dad3146f4fb5c5e533151dab4de335/892c61da6d1d7816-9d/s2048x3072/54914af0a9c5109cbaa30eb82f108fe0af555252.pnj" width="450" title="AC: Deimos Art on X" align="left">
+  
 
-<img src="https://64.media.tumblr.com/112e43920d4d7dfe18bd64c081e7bf90/f1659b4977b95e1f-45/s2048x3072/86b1806fe75c6464485f10234eb4f2d3fb925d23.pnj" width="520" align="left">
+<img src="https://64.media.tumblr.com/112e43920d4d7dfe18bd64c081e7bf90/f1659b4977b95e1f-45/s2048x3072/86b1806fe75c6464485f10234eb4f2d3fb925d23.pnj" width="400" align="right">
