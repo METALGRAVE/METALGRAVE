@@ -9,7 +9,10 @@
 <img src="https://64.media.tumblr.com/4867e077e4e290efbe012e4d7dd77506/1ff7117fb595fda4-83/s1280x1920/fd6851b0702e3a6004a8cd95e4645ff902069046.gifv" width="265" title="I've got bad things coming to me. You'd better keep your distance, too."> 
     <br>
       <br>
-        <br>
-          <br>
           <img src="https://64.media.tumblr.com/d891af1fdec0f8971f0c7d2b743cb837/6186931fcdcf074a-eb/s540x810/860105b9a68b91fcb53a0b5ff2093840823582e4.gifv" width="305" align="right">
 <img src="https://typingsvg.vercel.app/api/svg?width=700&height=72&backgroundColor=%23e1dbbc&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Mercy+killing+is+a+last+resort.%22%2C%22font%22%3A%22Handjet%22%2C%22color%22%3A%22%23ab3b3b%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.0196078431372549%7D%2C%7B%22text%22%3A%22Glad+you+recognized+we+had+options.%22%2C%22font%22%3A%22Handjet%22%2C%22color%22%3A%22%23983434%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.0196078431372549%7D%5D" alt="Typing SVG" title="Mercy killing is a last resort. Glad you recognized we had options." width="370" height="200" align="left">
+<br>
+      <br>
+        <br>
+          <br>
+<img src="https://64.media.tumblr.com/820ce1007d579864eb10ef208cacbdc7/838d63b68db0a450-c7/s2048x3072/fedd7beb1fd223475c829a703eb838cb532f2455.pnj" width="450" align="left">
