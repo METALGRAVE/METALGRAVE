@@ -1,5 +1,8 @@
 <div align="left">
 
+<img src="https://64.media.tumblr.com/379e62cee669e7925d7f7926c59a5ffe/f1659b4977b95e1f-c9/s2048x3072/40b674059ce5aabf0b7aeeac24a7f6c047d3873b.pnj" width="345" align="left">
+
+
  <img src="https://typingsvg.vercel.app/api/svg?width=700&height=72&backgroundColor=%23983434&cursorStyle=block&lines=%5B%7B%22text%22%3A%22It+was+more+like...%22%2C%22font%22%3A%22Handjet%22%2C%22color%22%3A%22%23e1dbbc%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.0196078431372549%7D%2C%7B%22text%22%3A%22Being+forced+to+watch+something+you+can%27t+stop.%22%2C%22font%22%3A%22Handjet%22%2C%22color%22%3A%22%23e1dbbc%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.0196078431372549%7D%5D" alt="Typing SVG" align="right" width="400" height="200" title="It was more like... Being forced to watch something you can't stop.">
     <br>
       <br>
