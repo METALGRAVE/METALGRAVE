@@ -11,7 +11,7 @@
           <tr>
             <td>
     <details>
-<summary>$\color{#bbec64}{\textsf{About me}}$</summary>
+<summary>$\color{#92d168}{\textsf{About me}}$</summary>
 
 
   </details>
@@ -23,7 +23,7 @@
     <tr>
       <td>
 <details>
-<summary>$\color{#bbec64}{\textsf{Interests}}$</summary>
+<summary>$\color{#7baa79}{\textsf{Interests}}$</summary>
 
 
 </details>
@@ -36,7 +36,7 @@
     <tr>
       <td>
 <details>
-<summary>$\color{#bbec64}{\textsf{Kins}}$</summary>
+<summary>$\color{#4c6e5a}{\textsf{Kins}}$</summary>
 
 
 </details>
@@ -47,3 +47,8 @@
 
 <p align="center">
   <a href="https://store.steampowered.com/app/1229490/ULTRAKILL/ "><img align="right" src="https://drive.google.com/uc?id=1tZ6dn0r2ovEs-AoT71-4X43QTFXf3dKV" title="BUY ULTRAKILL. NOW!!!" alt="v1  &gab" width=650px/>
+
+
+
+
+
