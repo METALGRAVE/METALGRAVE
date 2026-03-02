@@ -54,7 +54,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <a href="https://7tries.straw.page/"><img align="left" src="https://drive.google.com/uc?id=1X4LbD27krFuDWzKqitjsREP8_C-4_RJR" title="Strawpage" width=150px/></a>
 <br>
