@@ -13,6 +13,7 @@
     <details>
 <summary>$\color{#92d168}{\textsf{About me}}$</summary>
 
+$\color{#bdcd82}{\textsf{This is the maximum}}$<br>$\color{#bdcd82}{\textsf{length of text}}$
 
   </details>
          </td>
@@ -24,6 +25,8 @@
       <td>
 <details>
 <summary>$\color{#7baa79}{\textsf{Interests}}$</summary>
+
+$\color{#bdcd82}{\textsf{This is the maximum}}$<br>$\color{#bdcd82}{\textsf{length of text}}$
 
 
 </details>
@@ -37,6 +40,8 @@
       <td>
 <details>
 <summary>$\color{#4c6e5a}{\textsf{Kins}}$</summary>
+
+$\color{#bdcd82}{\textsf{This is the maximum}}$<br>$\color{#bdcd82}{\textsf{length of text}}$
 
 
 </details>
