@@ -52,10 +52,10 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
     <p align="center">  <br><br><br>
       $\color{#dbe1f3}{\textsf{Look at my}}$ $\color{#F7ABCFFF}{\textsf{button!}}$<br>
 $\color{#dbe1f3}{\textsf{Code to copy on.}}$ $\color{#dbe1f3}{\textsf{profile below.}}$
-
+<br>
+      <br>
 <a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i" title="GRAVE'S SITE!!" alt="button"></a> <br>
 
-<br>
 <br>
 <br>
 <br>
