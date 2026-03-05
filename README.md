@@ -39,6 +39,46 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
   <img align="center" src="https://drive.google.com/uc?id=1q9G13SM8K0DtDanhh4w5sisKqAlTvalu" alt="otasune love" height="80px" title="Look at them i wanna squash like bug">
 <img src="https://komarev.com/ghpvc/?username=vexuliii&color=98ace4&style=for-the-badge&label=Snakes+Eaten:" title="kill Huey kill Huey kill Huey kill Huey kill">
   
-
   
 <img src="https://64.media.tumblr.com/3af7d5296d3e5d94560d53f171d25400/bd2c07e98ea9bf52-59/s2048x3072/261fa3cde4e787047e227a744f7d89c35eb42bb3.gifv" alt="divider">
+
+
+
+  <table border="0" align="right">
+    <tr></tr>
+      <th>
+           <br>  
+ <img align="right" src="https://drive.google.com/uc?id=1GrrJ_rjUfbmperNwVnhQd9ZG1Dug2fXr" alt="thumbs up" height="250px" title="Otacon support!">
+             <br>
+        $\color{#F7ABCFFF}{\textsf{Look at my}}$ $\color{#dbe1f3}{\textsf{button!}}$<br>
+$\color{#dbe1f3}{\textsf{Code to copy on profile below.}}$
+
+  <table border="0">
+    <tr></tr>
+      <th>
+  <details>
+        <summary>bhsvajdva</summary>
+  </details>
+      </th>
+  </table>
+
+   <table border="0">
+    <tr></tr>
+      <th>
+   <details>
+        <summary>bhsvajdva</summary>
+  </details>
+      </th>
+  </table>
+  
+   <table border="0">
+    <tr></tr>
+      <th>
+   <details>
+        <summary>bhsvajdva</summary>
+  </details>
+              </th>
+  </table>
+        <br>
+      </th>
+  </table>
