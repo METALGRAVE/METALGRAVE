@@ -61,7 +61,10 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
         <br>
             <br>
                 <br>
-  <table border="0" align="left">
+           <p align="center"><table border="0"></p>
+    <tr></tr>
+      <th>
+  <p align="center"><table border="0"></p>
     <tr></tr>
       <th>
   <details>
@@ -69,7 +72,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
       </th>
   </table>
-   <table border="0" align="left">
+   <p align="center"> <table border="0"></p>
     <tr></tr>
       <th>
    <details>
@@ -77,7 +80,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
       </th>
    </table>
-   <table border="0" align="left">
+   <p align="center"> <table border="0"></p>
     <tr></tr>
       <th>
    <details>
