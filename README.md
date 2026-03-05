@@ -8,9 +8,15 @@
   <table border="0" align="left">
     <tr align="center"></tr>
       <th>
-          <img src="https://drive.google.com/uc?id=1YFXk5AivwVrrXZ0Ay1mAuBZkw1jmZu54" alt="ata" height="150px" title="CLICK FOR ATABOOK" >
+          <img src="https://drive.google.com/uc?id=1YFXk5AivwVrrXZ0Ay1mAuBZkw1jmZu54" alt="otasune muah" height="150px" title="Nothing bad ever happens to otacon and dave" >
         <br>
-        $\color{#F7ABCFFF}\Large{\textsf{HI IM GRAVE}}$
+           <br>  
+             <br>
+        $\color{#F7ABCFFF}{\textsf{Hello, I'm}}$ $\color{#dbe1f3}{\textsf{Grave!}}$<br>
+$\color{#dbe1f3}{\textsf{ ☆ any / all ☆}}$ $\color{#F7ABCFFF}{\textsf{(+He/Him) pronouns ☆ }}$ <br>
+$\color{#dbe1f3}{\textsf{Taken <3}}$<br>
+$\color{#F7ABCFFF}{\textsf{I’m always super friendly, so feel free to interact with me!}}$<br>
+$\color{#F7ABCFFF}{\textsf{I hang out around docks, HermitHill, and DC/Marvel area!}}$<br>
         <br>
       </th>
   </table>
