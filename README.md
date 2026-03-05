@@ -49,16 +49,16 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
       <th>
            <br>  
  <img align="right" src="https://drive.google.com/uc?id=1GrrJ_rjUfbmperNwVnhQd9ZG1Dug2fXr" alt="thumbs up" width="180px" title="Otacon support!">
-    <p align="center">  <br><br><br><br><br>
-      $\color{#F7ABCFFF}{\textsf{Look at my}}$ $\color{#dbe1f3}{\textsf{button!}}$<br>
+    <p align="center">  <br><br><br>
+      $\color{#dbe1f3}{\textsf{Look at my}}$ $\color{#F7ABCFFF}{\textsf{button!}}$<br>
 $\color{#dbe1f3}{\textsf{Code to copy on.}}$ $\color{#dbe1f3}{\textsf{profile below.}}$
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i" title="GRAVE'S SITE!!" alt="button"></a> <br>
 
+<br>
+<br>
+<br>
+<br>
 
   <table border="0" align="left">
     <tr></tr>
