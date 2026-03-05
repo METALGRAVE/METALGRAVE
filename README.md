@@ -48,7 +48,7 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
     <tr></tr>
       <th>
            <br>  
- <img align="right" src="https://drive.google.com/uc?id=1GrrJ_rjUfbmperNwVnhQd9ZG1Dug2fXr" alt="thumbs up" height="250px" title="Otacon support!">
+ <img align="right" src="https://drive.google.com/uc?id=1GrrJ_rjUfbmperNwVnhQd9ZG1Dug2fXr" alt="thumbs up" height="250px width="550px" title="Otacon support!">
     <p align="center">  $\color{#F7ABCFFF}{\textsf{Look at my}}$ $\color{#dbe1f3}{\textsf{button!}}$<br>
 $\color{#dbe1f3}{\textsf{Code to copy on profile below.}}$
 
