@@ -11,6 +11,7 @@
   <table border="0" align="left">
     <tr align="center"></tr>
       <th>
+           <br>  
           <img src="https://drive.google.com/uc?id=1YFXk5AivwVrrXZ0Ay1mAuBZkw1jmZu54" alt="otasune muah" height="150px" title="Nothing bad ever happens to otacon and dave" >
         <br>
            <br>  
