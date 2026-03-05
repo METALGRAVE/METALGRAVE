@@ -39,4 +39,4 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
   
 
   
-<img src="https://64.media.tumblr.com/a36130480fd5e3ecc8f02152737e53df/721fb5d4c5e6db40-15/s2048x3072/d62edf44e27dd524bb4f71f94b50e6626f0ab2d9.pnj">
+<img src="https://64.media.tumblr.com/3af7d5296d3e5d94560d53f171d25400/bd2c07e98ea9bf52-59/s2048x3072/261fa3cde4e787047e227a744f7d89c35eb42bb3.gifv" alt="divider">
