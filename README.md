@@ -47,7 +47,7 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
     <tr></tr>
       <th>
            <br>  
- <img align="center" src="https://drive.google.com/uc?id=1x7Ev7BXfNc4V701g8ezBW-5sRHhJsRk0" width="180px">
+ <img align="center" src="https://drive.google.com/uc?id=1x7Ev7BXfNc4V701g8ezBW-5sRHhJsRk0" width="250px">
 
      
  <img align="right" src="https://drive.google.com/uc?id=1GrrJ_rjUfbmperNwVnhQd9ZG1Dug2fXr" alt="thumbs up" width="180px" title="Otacon support!">
@@ -59,10 +59,10 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
 <a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i" title="GRAVE'S SITE!!" alt="button"></a> <br>
     <br>
         <br>
-            <br>
           <br>
+          <div align="center">
 
-  <table border="0" align="left">
+  <table border="0">
     <tr></tr>
       <th>
   <details>
@@ -70,9 +70,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
       </th>
   </table>
-                    <br>
-                    <br>
-    <table border="0" align="left">
+    <table border="0">
     <tr></tr>
       <th>
    <details>
@@ -80,9 +78,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
       </th>
    </table>
-               <br>
-                <br>
-  <table border="0" align="left">
+  <table border="0">
     <tr></tr>
       <th>
    <details>
@@ -90,6 +86,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
               </th>
   </table>
+        <br>
         <br>
       </th>
   </table>
