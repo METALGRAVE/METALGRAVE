@@ -34,7 +34,9 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
 <br>
   <br>
 <a href="https://github.com/Vexuliii?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?&color=98ace4&label=Total%20Stars:&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Vexuliii" title="If you see 0 refresh the page..."></a>
-  
+  <img align="center" src="https://drive.google.com/uc?id=1q9G13SM8K0DtDanhh4w5sisKqAlTvalu" alt="otasune carry" height="80px" title="Nothing bad ever happens to otacon and dave">
 <img src="https://komarev.com/ghpvc/?username=vexuliii&color=98ace4&style=for-the-badge&label=Snakes+Eaten:" title="kill Huey kill Huey kill Huey kill Huey kill">
+  
 
-
+  
+<img src="https://64.media.tumblr.com/a36130480fd5e3ecc8f02152737e53df/721fb5d4c5e6db40-15/s2048x3072/d62edf44e27dd524bb4f71f94b50e6626f0ab2d9.pnj">
