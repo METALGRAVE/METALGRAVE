@@ -13,8 +13,10 @@
       <th>
            <br>  
           <img src="https://drive.google.com/uc?id=1YFXk5AivwVrrXZ0Ay1mAuBZkw1jmZu54" alt="otasune muah" height="150px" title="Nothing bad ever happens to otacon and dave" >
-        <br>
-           <br>  
+<br>
+                   <br>  
+
+<img src="https://64.media.tumblr.com/34cebe0affa56abfe2874cd8d160d15b/35e1034bd9f7f59b-bc/s250x400/792222ff6805f609349d492fab012acf7f8b6157.gifv" width="50" alt="flower">
              <br>
         $\color{#F7ABCFFF}{\textsf{Hello, I'm}}$ $\color{#dbe1f3}{\textsf{Grave!}}$<br>
 $\color{#dbe1f3}{\textsf{ ☆ any / all ☆}}$ $\color{#F7ABCFFF}{\textsf{(+He/Him) pronouns ☆ }}$ <br>
@@ -26,15 +28,15 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
   </table>
 
 
-  <img align="center" src="https://drive.google.com/uc?id=1d4JW1L5O4slITQiPuViYi3hoa5WdEvD9" alt="otasune carry" height="80px" title="Nothing bad ever happens to otacon and dave" >
+  <img align="center" src="https://drive.google.com/uc?id=1d4JW1L5O4slITQiPuViYi3hoa5WdEvD9" alt="otasune carry" height="90px" title="cannon events in mg1">
          <br>  
              <br>
-  <img align="center" src="https://drive.google.com/uc?id=1KaL6GjoN2gAKa0xPLdFVP33aZgy5sQva" alt="otasune sleep" height="150px" title="Nothing bad ever happens to otacon and dave" >
+  <img align="center" src="https://drive.google.com/uc?id=1KaL6GjoN2gAKa0xPLdFVP33aZgy5sQva" alt="otasune sleep" height="150px" title="He's an otaku">
 
 <br>
   <br>
 <a href="https://github.com/Vexuliii?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?&color=98ace4&label=Total%20Stars:&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Vexuliii" title="If you see 0 refresh the page..."></a>
-  <img align="center" src="https://drive.google.com/uc?id=1q9G13SM8K0DtDanhh4w5sisKqAlTvalu" alt="otasune carry" height="80px" title="Nothing bad ever happens to otacon and dave">
+  <img align="center" src="https://drive.google.com/uc?id=1q9G13SM8K0DtDanhh4w5sisKqAlTvalu" alt="otasune love" height="80px" title="Look at them i wanna squash like bug">
 <img src="https://komarev.com/ghpvc/?username=vexuliii&color=98ace4&style=for-the-badge&label=Snakes+Eaten:" title="kill Huey kill Huey kill Huey kill Huey kill">
   
 
