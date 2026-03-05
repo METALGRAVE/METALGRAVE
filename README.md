@@ -43,16 +43,17 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
 <img src="https://64.media.tumblr.com/3af7d5296d3e5d94560d53f171d25400/bd2c07e98ea9bf52-59/s2048x3072/261fa3cde4e787047e227a744f7d89c35eb42bb3.gifv" alt="divider">
 
 
-
   <table border="0" align="right">
     <tr></tr>
       <th>
            <br>  
-            <p align="center">  <br><br><br>
+ <img align="center" src="https://drive.google.com/uc?id=1x7Ev7BXfNc4V701g8ezBW-5sRHhJsRk0" alt="thumbs up" width="180px" title="Otacon support!">
+
+     
+ <img align="right" src="https://drive.google.com/uc?id=1GrrJ_rjUfbmperNwVnhQd9ZG1Dug2fXr" alt="thumbs up" width="180px" title="Otacon support!">
+       <p align="center">  <br><br><br>
       $\color{#dbe1f3}{\textsf{Look at my}}$ $\color{#F7ABCFFF}{\textsf{button!}}$<br>
 $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile below.}}$
- <img align="right" src="https://drive.google.com/uc?id=1GrrJ_rjUfbmperNwVnhQd9ZG1Dug2fXr" alt="thumbs up" width="180px" title="Otacon support!">
-
 <br>
       <br>
 <a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i" title="GRAVE'S SITE!!" alt="button"></a> <br>
