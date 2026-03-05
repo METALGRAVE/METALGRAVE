@@ -1552,28 +1552,6 @@ sniffles... i made it ma... my first hate comments... on a pony game for childre
 
 </details>
 
-<details>
-<summary>$\color{#F7ABCFFF}{\textsf{Web Buttons!}}$</summary>
-
-<div align="center">
-
-<a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i" title="GRAVE'S SITE!!" alt="button"></a> <br>
-My button! Copy the code!
-
-
-```bash
-<a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i"></a>
-```
-<hr>
-SHITCLUBE WEB RING
-<a href="https://github.com/BULLET-MATH"><img src="https://drive.google.com/uc?id=1EqrOzbRmQZlE089_HESDMv-7WVKp3EGd" title="BULLET-MATH" alt="stat"></a>
-
-<hr>
-OTHER USERS BUTTONS
-
-none :( make buttons guys
-</details>
-
 </details>
  </td>
       </tr>
