@@ -25,7 +25,7 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
   </table>
 
 
-  <img align="center" src="https://drive.google.com/uc?id=1d4JW1L5O4slITQiPuViYi3hoa5WdEvD9" alt="otasune carry" height="100px" title="Nothing bad ever happens to otacon and dave" >
+  <img align="center" src="https://drive.google.com/uc?id=1d4JW1L5O4slITQiPuViYi3hoa5WdEvD9" alt="otasune carry" height="80px" title="Nothing bad ever happens to otacon and dave" >
          <br>  
              <br>
   <img align="center" src="https://drive.google.com/uc?id=1KaL6GjoN2gAKa0xPLdFVP33aZgy5sQva" alt="otasune sleep" height="150px" title="Nothing bad ever happens to otacon and dave" >
