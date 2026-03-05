@@ -78,6 +78,13 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
       <th>
   <details>
         <summary>$\color{#F7ABCFFF}{\textsf{Code!}}$</summary>
+    
+```bash
+<a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i"></a>
+```
+
+$\color{#F7ABCFFF}{\textsf{Copy this and put it on YOUR github to link back to my page!}}$
+    
   </details>
       </th>
   </table>
@@ -88,6 +95,9 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
       <th>
    <details>
         <summary>$\color{#F7ABCFFF}{\textsf{Friends!}}$</summary>
+
+<a href="https://github.com/BULLET-MATH"><img src="https://drive.google.com/uc?id=1EqrOzbRmQZlE089_HESDMv-7WVKp3EGd" title="BULLET-MATH" alt="stat"></a>
+     
   </details>
       </th>
    </table>
@@ -98,6 +108,9 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
       <th>
    <details>
         <summary>$\color{#F7ABCFFF}{\textsf{Others!}}$</summary>
+
+None... yet... make buttons guys i want cool profiles on my page
+     
   </details>
               </th>
   </table>
