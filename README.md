@@ -60,9 +60,11 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
     <br>
         <br>
           <br>
+       </div>
           <div align="center">
 
-  <table border="0">
+  <img align="left" src="https://drive.google.com/uc?id=1x7Ev7BXfNc4V701g8ezBW-5sRHhJsRk0" width="65px">
+ <table border="0" align="left">
     <tr></tr>
       <th>
   <details>
@@ -70,7 +72,9 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
       </th>
   </table>
-    <table border="0">
+
+  
+<table border="0" align="left">
     <tr></tr>
       <th>
    <details>
@@ -78,7 +82,9 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
       </th>
    </table>
-  <table border="0">
+
+   
+<table border="0" align="left">
     <tr></tr>
       <th>
    <details>
