@@ -53,7 +53,7 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
         $\color{#F7ABCFFF}{\textsf{Look at my}}$ $\color{#dbe1f3}{\textsf{button!}}$<br>
 $\color{#dbe1f3}{\textsf{Code to copy on profile below.}}$
 
-  <table border="0">
+  <table border="0" align="left">
     <tr></tr>
       <th>
   <details>
@@ -62,7 +62,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on profile below.}}$
       </th>
   </table>
 
-   <table border="0">
+   <table border="0" align="center">
     <tr></tr>
       <th>
    <details>
@@ -71,7 +71,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on profile below.}}$
       </th>
   </table>
   
-   <table border="0">
+   <table border="0" align="right">
     <tr></tr>
       <th>
    <details>
