@@ -65,7 +65,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on.}}$ $\color{#dbe1f3}{\textsf{profile be
     <tr></tr>
       <th>
   <details>
-        <summary>bhsvajdva</summary>
+        <summary>$\color{#F7ABCFFF}{\textsf{Code!}}$</summary>
   </details>
       </th>
   </table>
@@ -73,7 +73,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on.}}$ $\color{#dbe1f3}{\textsf{profile be
     <tr></tr>
       <th>
    <details>
-        <summary>bhsvajdva</summary>
+        <summary>$\color{#F7ABCFFF}{\textsf{Friends!}}$</summary>
   </details>
       </th>
    </table>
@@ -81,7 +81,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on.}}$ $\color{#dbe1f3}{\textsf{profile be
     <tr></tr>
       <th>
    <details>
-        <summary>bhsvajdva</summary>
+        <summary>$\color{#F7ABCFFF}{\textsf{Others!}}$</summary>
   </details>
               </th>
   </table>
