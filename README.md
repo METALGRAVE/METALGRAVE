@@ -47,7 +47,7 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
     <tr></tr>
       <th>
            <br>  
- <img align="center" src="https://drive.google.com/uc?id=1x7Ev7BXfNc4V701g8ezBW-5sRHhJsRk0" alt="thumbs up" width="180px" title="Otacon support!">
+ <img align="center" src="https://drive.google.com/uc?id=1x7Ev7BXfNc4V701g8ezBW-5sRHhJsRk0" width="180px">
 
      
  <img align="right" src="https://drive.google.com/uc?id=1GrrJ_rjUfbmperNwVnhQd9ZG1Dug2fXr" alt="thumbs up" width="180px" title="Otacon support!">
@@ -60,11 +60,9 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
     <br>
         <br>
             <br>
-                <br>
-           <p align="center"><table border="0"></p>
-    <tr></tr>
-      <th>
-  <p align="center"><table border="0"></p>
+          <br>
+
+  <table border="0" align="left">
     <tr></tr>
       <th>
   <details>
@@ -72,7 +70,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
       </th>
   </table>
-   <p align="center"> <table border="0"></p>
+    <table border="0" align="left">
     <tr></tr>
       <th>
    <details>
@@ -80,7 +78,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
       </th>
    </table>
-   <p align="center"> <table border="0"></p>
+  <table border="0" align="left">
     <tr></tr>
       <th>
    <details>
