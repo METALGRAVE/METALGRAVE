@@ -62,7 +62,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on profile below.}}$
       </th>
   </table>
   <br>
-   <table border="0">
+   <table border="0" align="left">
     <tr></tr>
       <th>
    <details>
@@ -71,7 +71,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on profile below.}}$
       </th>
   </table>
     <br>
-   <table border="0" align="right">
+   <table border="0" align="left">
     <tr></tr>
       <th>
    <details>
