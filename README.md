@@ -70,6 +70,8 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
       </th>
   </table>
+                    <br>
+                    <br>
     <table border="0" align="left">
     <tr></tr>
       <th>
@@ -78,6 +80,8 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
   </details>
       </th>
    </table>
+               <br>
+                <br>
   <table border="0" align="left">
     <tr></tr>
       <th>
@@ -90,14 +94,12 @@ $\color{#dbe1f3}{\textsf{Code to copy on}}$ <br>$\color{#dbe1f3}{\textsf{profile
       </th>
   </table>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
   <div align="center">
+
+   <img align="center" src="https://drive.google.com/uc?id=1zGlSZH7_LyYve5PuHptRkXBTXqDnsvjI" width="250px">
+
+<br>
+<br>
 
    <table>
     <tr></tr>
@@ -1550,3 +1552,9 @@ none :( make buttons guys
  </td>
       </tr>
   </table>
+
+
+
+  <img align="center" src="https://drive.google.com/uc?id=1DqfZpNT6FYHMM8osdvhhYIKif2YjQHHE" width="180px">
+
+
