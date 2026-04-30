@@ -6,7 +6,9 @@
 
 <img src="https://64.media.tumblr.com/0d5818869c93d115b1e87ce0ea6c1831/136161c94749bc22-7c/s2048x3072/9517c924d7d99eb5a59ad4cbbcbbab130a8b9e4a.pnj" width="330" align="left" title="Blvrryface">
 <br><br><p align="center"><img src="https://view-counter.tobyhagan.com/?user={METALGRAVE}&base=black&accent=e66718&text=white&flat=true" width="100"></p><a href="https://www.last.fm/user/blvrryface"><img src="https://lastfm-recently-played.vercel.app/api?user=vexulii&footer_style=none&count=1&width=320&loved=true&loved_style=2&header_style=compact_stats_only&bg_color=e66718" align="left" alt="LASTFM"></a>
+<br><br>
+<p align="left"><kbd>$\color{#e66718}{\textsf{Credit to @Vexuliii}}$<br><a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i" title="TO VEXULII SITE"></a></kbd>
 
 <kbd>$\color{#e66718}\Large{\textsf{ABT}}$<br><br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$<br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$<br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$<br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$<br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$<br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$ </kbd>
 
-
+<p align="left"><kbd>$\color{#e66718}{\textsf{Credit to @Vexuliii}}$<br><a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i" title="TO VEXULII SITE"></a></kbd>
