@@ -10,3 +10,5 @@
 <kbd>$\color{#e66718}\Large{\textsf{ABT}}$<br><br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$<br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$<br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$<br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$<br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$<br>$\color{#e66718}{\textsf{TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT}}$ </kbd>
 
 <p align="left"><kbd>$\color{#e66718}{\textsf{Credit to @Vexuliii}}$<br><a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i" title="TO VEXULII SITE"></a></kbd>
+<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Winky+Sans&pause=1000&color=990000&center=true&vCenter=true&width=245&height=40&lines=this+is+where+the+fun+begins!" alt="Typing SVG" align="right">
