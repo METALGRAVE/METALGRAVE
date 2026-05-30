@@ -21,6 +21,8 @@
 <div align="center">
 
 
-
 <br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Winky+Sans&pause=1000&color=990000&center=true&vCenter=true&width=245&height=40&lines=this+is+where+the+fun+begins!" alt="Typing SVG" align="right">
+
+
+<img src="https://64.media.tumblr.com/2645ede6f292a58d23032122f7c25684/f45a1366ec2420ed-5a/s1280x1920/8235baa2ef794ab2e471e0189031ceb8437f9c7a.pnj" width="70" alt="atabook"> <img src="https://64.media.tumblr.com/2429145f7db3703b27a6df279ba42964/f45a1366ec2420ed-13/s1280x1920/737ad6ec513f5db26d619acae7028fc659dcaf87.pnj" width="70" alt="prns">
